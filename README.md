@@ -33,3 +33,6 @@ I use i3 window manager so I put this in my i3 config `exec_always --no-startup-
 I want to change the scroll speed without using any other external programs but this trackball is missing a property in xinput props to be able to do so.
 
 The kensington software on windows allows you to press two buttons at once for a different input which is pretty cool, so I'm looking for a way to achieve this on linux too. It doesn't seem possible with xinput to my knowledge. 
+
+# Video
+[![Youtube](https://img.youtube.com/vi/hIAJ9Icq3KU/0.jpg)](https://www.youtube.com/watch?v=hIAJ9Icq3KU)
