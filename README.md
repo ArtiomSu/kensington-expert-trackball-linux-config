@@ -20,7 +20,7 @@ ______________   |       |  ________________
 ```
 1. Natural scrolling will be enabled. ( scrolling is smoother with this on )
 2. Ball acceliration will be disabled.
-3. Middle click + ball roll can also be used to scroll. ( very smooth and fast scrolling but a bit awkward with the top left button )
+3. Middle click + ball roll can also be used to scroll. ( very smooth and fast scrolling )
 
 # Usage
 You can run the script simpy by calling the script `./Kensington_Expert_Setup.sh` there is no need for root.

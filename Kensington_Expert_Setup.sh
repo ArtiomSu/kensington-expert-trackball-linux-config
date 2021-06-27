@@ -27,8 +27,9 @@ if [[ ! -z "$check" ]]; then
 	xinput set-prop $mouse_id "libinput Accel Profile Enabled" 0, 1
 
 	# allow scrolling by holding middle mouse button and using the ball to scroll ( really smooth and fast ). 
-	# Note this uses the original middle click button, so like I have mapped my middle click to bottom right but I still need to use the top left button
 	xinput set-prop $mouse_id "libinput Scroll Method Enabled" 0, 0, 1
+	# allow the remmaped middle mouse to be used for middle mouse scroll
+	xinput set-prop $mouse_id "libinput Button Scrolling Button" 3
 fi
 
 # read more here https://askubuntu.com/questions/492744/how-do-i-automatically-remap-buttons-on-my-mouse-at-startup
