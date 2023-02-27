@@ -13,7 +13,7 @@
 #       1              2             3              4                   5                  6                               7                   8             9
 #
 
-mouse_name="Kensington Expert Wireless TB Mouse"
+mouse_name="${1:-Kensington Expert Wireless TB Mouse}"
 
 check=$(xinput | grep "$mouse_name")
 
