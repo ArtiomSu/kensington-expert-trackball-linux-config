@@ -6,6 +6,8 @@ This scripts dependancies are `xinput` `grep` and `sed` which should be installe
 
 There are comments in the script which should help you setup your own config.
 
+check out my [Elecom Huge Version](https://github.com/ArtiomSu/elecom-huge-trackball-linux-config)
+
 # Layout
 
 If you run the script as is without changing anything this will be your layout:
